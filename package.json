@@ -1,0 +1,28 @@
+{
+  "name": "donutscript",
+  "version": "0.0.1",
+  "description": "DonutScript is a little fun programming language",
+  "main": "./dist/index.js",
+  "types": "./typings/index.d.ts",
+  "files": [
+    "src",
+    "dist",
+    "typings"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gflp-team/donutscript.git"
+  },
+  "keywords": [
+    "donutscript"
+  ],
+  "author": "John Heinrich",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gflp-team/donutscript/issues"
+  },
+  "homepage": "https://github.com/gflp-team/donutscript#readme"
+}
