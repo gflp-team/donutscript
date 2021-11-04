@@ -6,6 +6,7 @@
         "esModuleInterop": true,
         "rootDir": "./src",
         "outDir": "./dist",
-        "removeComments": false
-    },
+        "removeComments": true,
+        "watch": true
+    }
 }
